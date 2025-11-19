@@ -21,13 +21,13 @@ Este sistema bancário simula operações básicas como criação de usuários, 
 ## 🖥 Demonstração
 
 ### 📌 Menu Principal
-![Menu](images/menu.png)
+![Menu](imagens/menu.png)
 
 ### 📌 Realizando um Saque
-![Saque](images/saque.png)
+![Saque](imagens/saque.png)
 
 ### 📌 Extrato Bancário
-![Extrato](images/extrato.png)
+![Extrato](imagens/extrato.png)
 
 ---
 
